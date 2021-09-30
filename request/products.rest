@@ -1,0 +1,9 @@
+@api = http://localhost:3000/products
+
+### GET /products
+
+GET {{api}}
+
+### CREATE /product
+
+POST {{api}}
